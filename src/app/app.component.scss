@@ -1,0 +1,12 @@
+mat-card {
+    margin-top: 80px;
+}
+
+// Desktop UI
+@media (min-width: 600px) {
+    div.container {
+        margin-left: 10rem;
+        margin-right: 10rem;
+    }
+    button.mobile-button { display: none;}
+}
