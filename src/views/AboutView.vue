@@ -1,6 +1,9 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>Hey there</h1>
+    <p>
+      I'm Johannes, a software engineer and AI enthusiast. I love to build things and share my knowledge with others.
+    </p>
   </div>
 </template>
 
