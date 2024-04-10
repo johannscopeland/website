@@ -14,7 +14,7 @@ import CommunityIcon from './icons/IconCommunity.vue'
     <template #heading>YouTube</template>
 
     <p>
-      You can watch my videos on <a href="https://www.youtube.com/c/JohannesCopeland">My YouTube Channel</a>.
+      You can watch my videos on <a href="https://www.youtube.com/@AIByJohannes">My YouTube Channel</a>.
     </p>
   </WelcomeItem>
 
@@ -35,7 +35,7 @@ import CommunityIcon from './icons/IconCommunity.vue'
     </template>
     <template #heading>𝕏</template>
 
-    I post daily to <a href="https://twitter.com/jcopelandblog">Twitter</a>. Follow me to stay up to date
+    I post daily to <a href="https://x.com/AIByJohannes">Twitter</a>. Follow me to stay up to date
     with my latest content and AI projects.
   </WelcomeItem>
 
